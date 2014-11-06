@@ -1,5 +1,3 @@
-Copyright (c) 2014 Symmetry Innovations Pty Ltd
-
 PyQNX6
 =====
 Python for QNX 6 Package.
@@ -12,3 +10,5 @@ use timers, interrupts and to create Resource Managers.
 
 For more details see http://www.symmetry.com.au/pyqnx6.html for the user manual and
 details of updates.
+
+Copyright (c) 2014 Symmetry Innovations Pty Ltd
