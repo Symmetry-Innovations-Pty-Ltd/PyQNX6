@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: PyQNX6
+Version: 0.1.0
+Summary: QNX/Python package
+Home-page: http://symmetry.com.au/PyQNX6
+Author: Andy Rhind, Symmetry Innovations Pty Ltd
+Author-email: pyqnx6@symmetry.com.au
+License: MIT
+Description: UNKNOWN
+Keywords: QNX, Message Passing
+Platform: QNX6
